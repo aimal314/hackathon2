@@ -14,7 +14,7 @@ const HeroSection = () => {
           </div>
           <div className="md:w-1/3">
             {/* Image placeholder - Replace with actual image */}
-            <img src="/Image (1).png" alt="Sofa" className="w-full h-auto" />
+            <Image src="/Image (1).png" alt="Sofa" className="w-full h-auto" />
           </div>
         </div>
       </div>
