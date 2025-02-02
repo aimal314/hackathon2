@@ -1,5 +1,5 @@
 import Link from 'next/link';
-
+import Image from 'next/image';
 const HeroSection = () => {
   return (
     <div className="bg-white text-black py-20">
